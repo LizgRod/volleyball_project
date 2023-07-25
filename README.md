@@ -1,2 +1,2 @@
 # python_code
-Codes from previous projects 
+There are a few codes from different projects.
