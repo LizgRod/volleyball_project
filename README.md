@@ -12,4 +12,4 @@ The R code was used for data analysis and hypothesis testing. One of the positio
 3. What kinds of groupings will the data show based on two contacts: receptions and attacks?
 
 
-In summary, the results of this work showed no evidence that the physical load imposed on outside hitters influences the teams ability to win a volleyball set or match. We also found that the distribution of outside hitters encountered helps to compare the performance of each outside hitter with the overall performance of all outside hitters (regardless of team) that were examined. 
+In summary, the results of this work showed no evidence that the physical load imposed on outside hitters influences the team's ability to win a volleyball set or match. We also found that the distribution of outside hitters encountered helps to compare the performance of each outside hitter with the overall performance of all outside hitters (regardless of team) that were examined. 
